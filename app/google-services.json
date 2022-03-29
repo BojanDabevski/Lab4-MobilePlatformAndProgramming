@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025328565867",
+    "project_id": "fir-app181115",
+    "storage_bucket": "fir-app181115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025328565867:android:e13719299d11d74b8f6b2e",
+        "android_client_info": {
+          "package_name": "mk.finki.ukim.firebaseapp181115"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025328565867-ar9uk7l4gp6lmcv9vkrl48s2i71j3uem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW4phRH70PQ0YCTbiu85e_oyBHq4vpRmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025328565867-ar9uk7l4gp6lmcv9vkrl48s2i71j3uem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
